@@ -1,0 +1,10 @@
+﻿# dependencies and build scratch
+node_modules/
+.tmp/
+scrollcraft/
+.claude/
+# packaged copies
+*.zip
+# old hero video, no longer used on the page
+site/assets/01*.mp4
+site/assets/01-poster.webp
